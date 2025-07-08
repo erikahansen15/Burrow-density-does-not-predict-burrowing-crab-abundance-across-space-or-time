@@ -18,7 +18,7 @@ EnvironmentalData:
 8. CrabBurrows- Number of crab burrows in 0.25 m<sup>2</sup> subplot
 9. Pitfalls- Number of burrowing crabs caught in pitfall trap at each plot over 48 hr period
 10. BlueCrabs- Number of blue crabs caught with crab trap ajacent to each station over 48 hr period
-11. WaveEnergy- Dissolution rate of gypsum block at each station (g day<sup>-1</sup>)
+11. WaveEnergy- Dissolution rate of gypsum block at each station (% loss day<sup>-1</sup>)
 12. TSS- Total suspended solids  (g L<sup>-1</sup>) filtered from 500 ml of water collected adjacent to each station
 13. SOM- Suspended organic matter (%) calculated by from loss-on-ignition of ashed TSS filter
 
