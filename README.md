@@ -13,7 +13,7 @@ EnvironmentalData:
 3. Plot- A, B, C
 4. Subplot- 1, 2
 5. Month- Spring, Summer, Fall
-6. Cover- Percent plant cover of 0.25 m<sup>2</sup> subplot
+6. Cover- Percent of 0.25 m<sup>2</sup> subplot covered by plant biomass
 7. Mussels- Number of mussels in 0.25 m<sup>2</sup> subplot
 8. CrabBurrows- Number of crab burrows in 0.25 m<sup>2</sup> subplot
 9. Pitfalls- Number of burrowing crabs caught in pitfall trap at each plot over 48 hr period
