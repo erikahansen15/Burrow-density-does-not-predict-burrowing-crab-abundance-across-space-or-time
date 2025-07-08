@@ -26,7 +26,7 @@ SedimentData:
 1. Habitat- Bay, Creek
 2. Station- 1, 2, 3, 5, 6, 7
 3. Plot- A, B, C
-4. Depth- Section of soil core analyzed: 1 (0-5 cm), 2 (5-10 cm), 3 (10-15 cm), 5 (15-20 cm)
+4. Depth- Section of soil core analyzed: 1 (0-2.5 cm), 2 (2.5-5 cm), 3 (5-7.5 cm), 5 (7.5-10 cm)
 5. WetWt_Bag- Wet weight of soil plus bag (g)
 6. DryWt_Bag- Dry weight of soil plug bag (g)
 7. BagWt- Bag weight (g)
