@@ -43,3 +43,5 @@ SedimentData:
 18. PerOM- Percent organic matter (%); OM/DryMass
 
 For further information, please reach out to Erika Hansen (eh828@drexel.edu)
+
+https://doi.org/10.5281/zenodo.15839169
