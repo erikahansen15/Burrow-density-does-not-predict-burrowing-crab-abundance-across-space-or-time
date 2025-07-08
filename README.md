@@ -1,7 +1,7 @@
 # Burrow density does not predict burrowing crab abundance across space or time in a New Jersey salt marsh 
 
 This is the data for the manuscript-
-Hansen, E., D. Paley, A. Rodriguez, M. Stewart, and S.A. Rinehart. 2025. Burrow density does not predict burrowing crab abundance across space or time in a New Jersey salt marsh. Esturaries and Coasts.
+Hansen, E., D. Paley, A. Rodriguez, M. Stewart, and S.A. Rinehart. 2025. Burrow density does not predict burrowing crab abundance across space or time in a New Jersey salt marsh. Estuaries and Coasts.
 
 There are 2 data files included in this repository.
 
